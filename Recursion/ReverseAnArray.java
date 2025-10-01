@@ -64,3 +64,4 @@ public class ReverseAnArray {
     }
 
 }
+// can we do using single variable 
