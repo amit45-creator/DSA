@@ -1,3 +1,4 @@
+//  two pointer approach
 // import java.util.*;
 
 // public class ReverseAnArray {
@@ -30,6 +31,11 @@
 //     }
 
 // }
+
+
+
+
+
 
 // using recursion 
 
@@ -64,4 +70,4 @@ public class ReverseAnArray {
     }
 
 }
-// can we do using single variable 
+// can we do using single variable yes we can do using single variable
