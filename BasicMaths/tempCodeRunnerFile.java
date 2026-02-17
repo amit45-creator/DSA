@@ -1,0 +1,1 @@
+ Arrays.toString(divisors(n)));
